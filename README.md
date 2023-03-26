@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repo](https://github.com/nicknjagi/advice-generator)
-- Live Site URL: []()
+- Live Site URL: [https://nicknjagi.github.io/advice-generator/](https://nicknjagi.github.io/advice-generator/)
 
 ## My process
 

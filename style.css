@@ -69,7 +69,7 @@ select {
 }
 
 body {
-  height: 100svh;
+  height: 100vh;
   font-family: 'Manrope', sans-serif;
   font-size: 28px;
   background-color: var(--Dark-Blue);
